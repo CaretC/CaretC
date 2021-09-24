@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am an electrical engineer working for a tidal energy company called Sustainable Marine based in Edinburgh and a third year BSc Ethical Hacking student at Abertay University in Dundee. 
+I am an electrical engineer working for a tidal energy company called [Sustainable Marine](https://www.sustainablemarine.com/) based in Edinburgh and a third year BSc Ethical Hacking student at Abertay University in Dundee. 
 
 ### 💼 I’m Currently Working On:
-* Pempa'q Tidal Energy Project in Nova Scotia
-* Uni work
+* [Grand Passage](https://www.sustainablemarine.com/grand-passage) and [Pempa'q](https://www.sustainablemarine.com/pempa-q) tidal energy Projects in Nova Scotia
+* Third year University Work - Modules this year include; Professional Project [Management](https://modules.abertay.ac.uk/module.cfm?modcode=CMP308) & [Delivery](https://modules.abertay.ac.uk/module.cfm?modcode=CMP311), [Ethical Hacking 2 (Web applications)](https://modules.abertay.ac.uk/module.cfm?modcode=CMP319), [Networking 2](https://modules.abertay.ac.uk/module.cfm?modcode=CMP314), [Ethical Hacking 3 (Binary Files)](https://modules.abertay.ac.uk/module.cfm?modcode=CMP320) and [Software Development for Mobile Devices](https://modules.abertay.ac.uk/module.cfm?modcode=CMP309). 
 * Various tools
 
 ### 🤓 My Passions Are:
